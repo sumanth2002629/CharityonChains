@@ -1,0 +1,29 @@
+
+.cyan
+{
+   color: #00dae4;
+}
+
+.white{
+   color: white;
+}
+
+.cyan,.white{
+   font-family: 'Roboto', sans-serif;
+   font-size:90px;
+}
+
+.navbar-dark {
+    background-color: #1f2432; }
+
+.nav-brand {
+ text-decoration: none;
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 600;
+ font-size:32px;
+ color: #00dae4;
+}
+.nav-brand :hover{
+    color: #263141; 
+}
